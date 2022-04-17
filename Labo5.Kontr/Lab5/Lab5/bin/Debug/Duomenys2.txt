@@ -1,4 +1,0 @@
-﻿Sportininkai
-t;Maistas;2;Rokas;Ar obuolys yra darzove;Ne;2;Bethovenas2
-t;Lietuviu;2;Petras;Kiek yra kazko;5;6;Daina4
-t;Istorija;3;Kamile;Kokiais metais gime Kristus;0;4;0
