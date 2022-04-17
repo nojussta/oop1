@@ -1,5 +1,0 @@
-﻿Petraitis;Petras;BGroup;3;9 10 6
-Jonaitis;Jonas;FGroup;6;6 8 6 9 9 8
-Gilė;Rugilė;BGroup;4;8 10 6 10
-Pavardenė;Vardenė;AGroup;4;7 6 10 10
-Pavardenis;Vardenis;FGroup;5;9 9 8 10 8

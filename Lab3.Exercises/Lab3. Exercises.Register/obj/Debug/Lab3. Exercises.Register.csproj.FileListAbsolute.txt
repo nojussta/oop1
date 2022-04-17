@@ -1,9 +1,0 @@
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csproj.AssemblyReference.cache
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csproj.CoreCompileInputs.cache
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Dogs.csv
-C:\Users\Nojus\source\repos\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Vaccinations.csv
