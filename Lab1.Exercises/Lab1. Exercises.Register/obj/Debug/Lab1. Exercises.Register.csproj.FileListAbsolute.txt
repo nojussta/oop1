@@ -1,0 +1,16 @@
+C:\Users\Nojus\source\repos\Lab1\Lab1. Exercises.Register\bin\Debug\Lab1.Exercises.Register.exe.config
+C:\Users\Nojus\source\repos\Lab1\Lab1. Exercises.Register\bin\Debug\Lab1.Exercises.Register.exe
+C:\Users\Nojus\source\repos\Lab1\Lab1. Exercises.Register\bin\Debug\Lab1.Exercises.Register.pdb
+C:\Users\Nojus\source\repos\Lab1\Lab1. Exercises.Register\obj\Debug\Lab1. Exercises.Register.csproj.AssemblyReference.cache
+C:\Users\Nojus\source\repos\Lab1\Lab1. Exercises.Register\obj\Debug\Lab1. Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\Nojus\source\repos\Lab1\Lab1. Exercises.Register\obj\Debug\Lab1.Exercises.Register.exe
+C:\Users\Nojus\source\repos\Lab1\Lab1. Exercises.Register\obj\Debug\Lab1.Exercises.Register.pdb
+C:\Users\Nojus\source\repos\Lab1\Lab1. Exercises.Register\bin\Debug\Dogs.csv
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1. Exercises.Register\bin\Debug\Dogs.csv
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1. Exercises.Register\bin\Debug\Lab1.Exercises.Register.exe.config
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1. Exercises.Register\bin\Debug\Lab1.Exercises.Register.exe
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1. Exercises.Register\bin\Debug\Lab1.Exercises.Register.pdb
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1. Exercises.Register\obj\Debug\Lab1. Exercises.Register.csproj.AssemblyReference.cache
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1. Exercises.Register\obj\Debug\Lab1. Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1. Exercises.Register\obj\Debug\Lab1.Exercises.Register.exe
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1. Exercises.Register\obj\Debug\Lab1.Exercises.Register.pdb
