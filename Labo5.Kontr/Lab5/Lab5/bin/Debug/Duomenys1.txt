@@ -1,0 +1,6 @@
+﻿Mechanikai
+t;Maistas;2;Petras;Ar obuolys yra darzove;Ne;2;Trys milijonai
+t;Istorija;1;Rokas;Kiek yra drakonu;Daug;6;Daina1
+t;Logikiski;2;Justina;Ar saule yra geltonos spalvos;Taip;6;Daina3
+t;Geografija;3;Karolis;Rusijos sostine yra?;ne;6;ne
+t;Lietuviu;2;Petras;Kiek yra kazko;5;6;Daina4

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Knyga1.txt
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Knyga2.txt
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Labo4.exe.config
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Labo4.exe
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Labo4.pdb
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\obj\Debug\Labo4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\obj\Debug\Labo4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\obj\Debug\Labo4.exe
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\obj\Debug\Labo4.pdb
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Knyga1_1.txt
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Knyga1_2.txt
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Knyga1_3.txt
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Knyga2_1.txt
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Knyga2_2.txt
+C:\Users\Lenovo\source\repos\Labo4.Kontr\Labo4\bin\Debug\Knyga2_3.txt

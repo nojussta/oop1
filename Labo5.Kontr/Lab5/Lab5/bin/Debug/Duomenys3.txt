@@ -1,0 +1,5 @@
+﻿Kalbininkai
+t;Istorija;1;Andrius;Kiek yra drakonu;Daug;6;Daina1
+t;Geografija;3;Karolis;Rusijos sostine yra?;ne;6;ne
+t;Lietuviu;2;Romas;Kiek yra kazko;5;6;Daina4
+t;Logiski;2;Kamile;du kart du;4;2;4

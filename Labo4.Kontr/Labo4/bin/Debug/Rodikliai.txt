@@ -1,0 +1,30 @@
+Žodžiai kurie yra tik faile: Knyga1_3.txt, bet nėra faile Knyga2_3.txt (max 10 žodžių):
+---------------------------------------
+|Unikalus žodis|Pasikartojimų skaičius|
+---------------------------------------
+|kad           |                     4|
+|Šeimininkė    |                     3|
+|lanko         |                     2|
+|apskritas     |                     1|
+|būt           |                     1|
+|ieško         |                     1|
+|nepertrūkęs   |                     1|
+|niekur        |                     1|
+|Tą            |                     1|
+|visai         |                     1|
+---------------------------------------
+
+Ilgiausias sakinys faile Knyga1_3.txt:
+------------------------------------------------------------------
+|Ilgiausio sakinio kiekis simboliais|Ilgis žodžiais|Eilutės vieta|
+------------------------------------------------------------------
+|                                156|            23|            4|
+------------------------------------------------------------------
+
+Ilgiausias sakinys faile Knyga2_3.txt:
+------------------------------------------------------------------
+|Ilgiausio sakinio kiekis simboliais|Ilgis žodžiais|Eilutės vieta|
+------------------------------------------------------------------
+|                                 18|             3|            0|
+------------------------------------------------------------------
+
