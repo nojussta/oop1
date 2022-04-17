@@ -1,0 +1,16 @@
+C:\Users\Nojus\source\repos\Lab1\Lab1_Sav1\bin\Debug\Lab1_Sav1.exe.config
+C:\Users\Nojus\source\repos\Lab1\Lab1_Sav1\bin\Debug\Lab1_Sav1.exe
+C:\Users\Nojus\source\repos\Lab1\Lab1_Sav1\bin\Debug\Lab1_Sav1.pdb
+C:\Users\Nojus\source\repos\Lab1\Lab1_Sav1\obj\Debug\Lab1_Sav1.csproj.AssemblyReference.cache
+C:\Users\Nojus\source\repos\Lab1\Lab1_Sav1\obj\Debug\Lab1_Sav1.csproj.CoreCompileInputs.cache
+C:\Users\Nojus\source\repos\Lab1\Lab1_Sav1\obj\Debug\Lab1_Sav1.exe
+C:\Users\Nojus\source\repos\Lab1\Lab1_Sav1\obj\Debug\Lab1_Sav1.pdb
+C:\Users\Nojus\source\repos\Lab1\Lab1_Sav1\bin\Debug\People.csv
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1_Sav1\bin\Debug\People.csv
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1_Sav1\bin\Debug\Lab1_Sav1.exe.config
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1_Sav1\bin\Debug\Lab1_Sav1.exe
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1_Sav1\bin\Debug\Lab1_Sav1.pdb
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1_Sav1\obj\Debug\Lab1_Sav1.csproj.AssemblyReference.cache
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1_Sav1\obj\Debug\Lab1_Sav1.csproj.CoreCompileInputs.cache
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1_Sav1\obj\Debug\Lab1_Sav1.exe
+C:\Users\Nojus\source\repos\Labo 1 Pasiruošimas\Lab1_Sav1\obj\Debug\Lab1_Sav1.pdb

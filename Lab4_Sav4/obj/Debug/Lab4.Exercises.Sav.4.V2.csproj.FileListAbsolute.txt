@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\Lab4.Exercises\Lab4.Exercises.Sav.4.V2\bin\Debug\Duomenys.txt
+C:\Users\Lenovo\source\repos\Lab4.Exercises\Lab4.Exercises.Sav.4.V2\bin\Debug\Lab4.Exercises.Sav.4.V2.exe.config
+C:\Users\Lenovo\source\repos\Lab4.Exercises\Lab4.Exercises.Sav.4.V2\bin\Debug\Lab4.Exercises.Sav.4.V2.exe
+C:\Users\Lenovo\source\repos\Lab4.Exercises\Lab4.Exercises.Sav.4.V2\bin\Debug\Lab4.Exercises.Sav.4.V2.pdb
+C:\Users\Lenovo\source\repos\Lab4.Exercises\Lab4.Exercises.Sav.4.V2\obj\Debug\Lab4.Exercises.Sav.4.V2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab4.Exercises\Lab4.Exercises.Sav.4.V2\obj\Debug\Lab4.Exercises.Sav.4.V2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab4.Exercises\Lab4.Exercises.Sav.4.V2\obj\Debug\Lab4.Exercises.Sav.4.V2.exe
+C:\Users\Lenovo\source\repos\Lab4.Exercises\Lab4.Exercises.Sav.4.V2\obj\Debug\Lab4.Exercises.Sav.4.V2.pdb

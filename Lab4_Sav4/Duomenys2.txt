@@ -1,0 +1,80 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+namespace U3_18
+{
+ class Program
+ {
+  static void Main(string[] args /* comment */)
+  {
+   const string CfileName1 = "Parduodami_1.1";
+   const string CfileName2 = "Parduodami_1.2"; //comment
+// Calculates starting data file size.
+   long csvFileLenth1 = new FileInfo(CfileName1 + ".csv").Length;
+   long csvFileLenth2 = new FileInfo(CfileName2 + ".csv").Length;
+   Console.WriteLine(" comment /* here */");
+   Console.WriteLine("comment //");
+// Checks if given file is not empty.
+/*Checks if given file is not empty.*/
+   if (csvFileLenth1 != 0 || csvFileLenth2 != 0)
+   {
+/*
+ Creating empty registry in case one of the starting data files is empty.
+*/
+    PropertyContainer EmptyContainer = new PropertyContainer();
+    Property emptyPropertry = new Property(null, null, null, null, DateTime.Today, 0, 0);
+    EmptyContainer.Add(emptyPropertry);
+    PropertyRegister emptyRegister = new PropertyRegister(null, null, -1, EmptyContainer);
+// Creating two registers for each separate starting data file.
+    PropertyRegister[] register = new PropertyRegister[2];
+// Checks if file is not empty, if it is then assigns register to the empty register. Prints out register to console window and a .txt format file.
+    if (csvFileLenth1 != 0)
+     register[0] = InOutUtils.ReadProperties(CfileName1 + ".csv");
+    else
+     register[0] = emptyRegister;
+    InOutUtils.PrintProperties(register[0]);
+    InOutUtils.PrintPropertiesToTXTFile(register[0], CfileName1);
+    Console.WriteLine();
+    if (csvFileLenth2 != 0)
+     register[1] = InOutUtils.ReadProperties(CfileName2 + ".csv");
+    else
+     register[1] = emptyRegister;
+    InOutUtils.PrintProperties(register[1]);
+    InOutUtils.PrintPropertiesToTXTFile(register[1], CfileName2);
+    Console.WriteLine();
+// Finds each companies youngest buildings and prints them out to console window with their age.
+    int age = register[0].FindYoungestAge();
+    if (register[1].FindYoungestAge() < age)
+     age = register[1].FindYoungestAge();
+    PropertyRegister youngestPropertyRegister1 = register[0].FindYoungestProperties(age);
+    PropertyRegister youngestPropertyRegister2 = register[1].FindYoungestProperties(age);
+    Console.WriteLine("Naujausių namų sąrašas:");
+    InOutUtils.PrintAllYoungestProperties(register[0], register[1], youngestPropertyRegister1, youngestPropertyRegister2);
+    Console.WriteLine();
+// Finds most popular building type in each register and prints it out to console window.
+    int biggestPopularTypeCount1 = register[0].FindBiggestTypeCount();
+    List<string> PopularTypes1 = register[0].FindPopularTypes(biggestPopularTypeCount1);
+    InOutUtils.PrintMostPopularHouseType(PopularTypes1, register[0], biggestPopularTypeCount1);
+    int biggestPopularTypeCount2 = register[1].FindBiggestTypeCount();
+    List<string> PopularTypes2 = register[1].FindPopularTypes(biggestPopularTypeCount2);
+    InOutUtils.PrintMostPopularHouseType(PopularTypes2, register[1], biggestPopularTypeCount2);
+    Console.WriteLine();
+// Finds repeating properties, sorts them and prints them out to "Kartojasi.csv" file.
+    PropertyContainer repeatingProperties = TaskUtils.Intersect(register[0], register[1]);
+    repeatingProperties.Sort();
+    InOutUtils.PrintRepeatingProperties("Kartojasi.csv", repeatingProperties);
+ // Finds different neighborhoods between two companies and prints them out to a .csv format file.
+    List<string> Neighborhoods = new List<string>();
+    Neighborhoods = register[0].FindAndAddDifferetNeighborhoods(Neighborhoods);
+    Neighborhoods = register[1].FindAndAddDifferetNeighborhoods(Neighborhoods);
+    InOutUtils.PrintNeighborhoodsToCSVFile("Mikrorajonai.csv", Neighborhoods);
+    }
+    else
+     Console.WriteLine("Jūsų duotieji failai yra tušti");
+   }
+ }
+}
+
+
+
+

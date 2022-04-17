@@ -1,0 +1,16 @@
+C:\Users\Nojus\source\repos\Lab3.Exercises\Sav_4\bin\Debug\Sav_4.exe.config
+C:\Users\Nojus\source\repos\Lab3.Exercises\Sav_4\bin\Debug\Sav_4.exe
+C:\Users\Nojus\source\repos\Lab3.Exercises\Sav_4\bin\Debug\Sav_4.pdb
+C:\Users\Nojus\source\repos\Lab3.Exercises\Sav_4\obj\Debug\Sav_4.csproj.AssemblyReference.cache
+C:\Users\Nojus\source\repos\Lab3.Exercises\Sav_4\obj\Debug\Sav_4.csproj.CoreCompileInputs.cache
+C:\Users\Nojus\source\repos\Lab3.Exercises\Sav_4\obj\Debug\Sav_4.exe
+C:\Users\Nojus\source\repos\Lab3.Exercises\Sav_4\obj\Debug\Sav_4.pdb
+C:\Users\Nojus\source\repos\Lab3.Exercises\Sav_4\bin\Debug\Studentai.txt
+C:\Users\Lenovo\source\repos\Lab3.Exercises\Sav_4\bin\Debug\Studentai.txt
+C:\Users\Lenovo\source\repos\Lab3.Exercises\Sav_4\bin\Debug\Sav_4.exe.config
+C:\Users\Lenovo\source\repos\Lab3.Exercises\Sav_4\bin\Debug\Sav_4.exe
+C:\Users\Lenovo\source\repos\Lab3.Exercises\Sav_4\bin\Debug\Sav_4.pdb
+C:\Users\Lenovo\source\repos\Lab3.Exercises\Sav_4\obj\Debug\Sav_4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab3.Exercises\Sav_4\obj\Debug\Sav_4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab3.Exercises\Sav_4\obj\Debug\Sav_4.exe
+C:\Users\Lenovo\source\repos\Lab3.Exercises\Sav_4\obj\Debug\Sav_4.pdb

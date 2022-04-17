@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\bin\Debug\Lab5.Exercises.Sav4.exe.config
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\bin\Debug\Lab5.Exercises.Sav4.exe
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\bin\Debug\Lab5.Exercises.Sav4.pdb
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\obj\Debug\Lab5.Exercises.Sav4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\obj\Debug\Lab5.Exercises.Sav4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\obj\Debug\Lab5.Exercises.Sav4.exe
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\obj\Debug\Lab5.Exercises.Sav4.pdb
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\bin\Debug\Players.csv
+C:\Users\Lenovo\source\repos\Lab5.Exercises\Lab5.Exercises.Sav4\bin\Debug\Teams.csv
